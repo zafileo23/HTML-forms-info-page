@@ -1,0 +1,128 @@
+body {
+    background-color: hsl(9, 54%, 97%);
+}
+
+.container {
+    margin: 80px;
+}
+
+h1 {
+    color: #2BAE66FF;
+    font-family: "Poppins";
+    font-weight: 700;
+    font-size: 50px;
+    border-bottom: dashed 2px #2BAE66FF;
+}
+
+h2 {
+    font-family: "Poppins";
+    font-weight: 500;
+}
+
+form {
+    font-family: Helvetica, sans-serif;
+    margin: 60px 0px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+form:hover {
+    box-shadow: 2px 5px 20px hsl(9, 9%, 82%);
+}
+
+input {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(210, 210, 210);
+    border-width: 1px;
+    margin-right: 20px;
+}
+
+button {
+    background-color: #2BAE66FF;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    word-spacing: normal;
+    width: 75px;
+    height: 25px;
+    font-size: 12px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+table {
+    border-spacing: 15px 0px;
+}
+
+thead {
+    font-family: "Lora";
+    font-weight: bold;
+}
+
+thead td{
+    font-family: "Lora";
+    border-top: none;
+    font-size: 18px;
+}
+
+tbody {
+    font-family: "Lora";
+}
+
+tr:hover {
+    background-color: #bfe6d1;
+}
+
+td {
+    border-top: 1px solid #2BAE66FF;
+    padding: 10px 5px;
+}
+
+.banner {
+
+}
+
+.subbanner {
+    margin-top: 60px;
+}
+
+.subbanner p {
+    font-family: "Lora";
+    padding: 0px 37px;
+}
+
+.subbanner h2 {
+}
+
+.forming {
+}
+
+.forming:hover {
+    font-style: italic;
+    color: #2BAE66FF;
+}
+
+.ttitle {
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.table {
+    border: 2px solid #2BAE66FF;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.column1 {
+    margin-right: 40px;
+}
+
+.bottomnote {
+    font-family: "Lora";
+}
